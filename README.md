@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!-- Tech Stack -->
-<h3 align="center">📚 Tech Stack 📚</h3>
-<p align="center">
+<h3 align="left">📚 Tech Stack 📚</h3>
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>&nbsp
