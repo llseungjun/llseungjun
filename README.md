@@ -1,4 +1,4 @@
-# Welcome! I am Seungjun Lee 👋<br><br>
+# Welcome! I am Seungjun Lee👋<br>
 Hello. My name is Seungjun Lee.<br><br>
 I am a student who dreams of becoming an ML engineer.<br><br>
 My field of interest is recommendation systems.<br><br>
