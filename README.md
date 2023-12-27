@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello. My name is Seungjun Lee.
+Hello. My name is Seungjun Lee.<br>
 I am a student who dreams of becoming an ML engineer.<br>
 My field of interest is recommendation systems.<br>
 Studying online commerce and content recommendation
