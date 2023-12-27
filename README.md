@@ -1,7 +1,7 @@
 ### Hi there 👋
-Hello. My name is Seungjun Lee.<br>
-I am a student who dreams of becoming an ML engineer.<br>
-My field of interest is recommendation systems.<br>
+Hello. My name is Seungjun Lee.<br><br>
+I am a student who dreams of becoming an ML engineer.<br><br>
+My field of interest is recommendation systems.<br><br>
 Studying online commerce and content recommendation
 <!-- Tech Stack -->
 <h3 align="left">📚 Tech Stack 📚</h3>
